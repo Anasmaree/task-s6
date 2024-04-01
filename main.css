@@ -1,0 +1,19 @@
+.services {
+background-color: white;
+
+text-align: center;
+}
+p{
+    color: black;
+}
+.service{
+ display: inline-block ;
+ width: 23%;
+
+}
+.fa-solid{
+    color: orange;
+}
+.fa-regular{
+    color: orange
+}
